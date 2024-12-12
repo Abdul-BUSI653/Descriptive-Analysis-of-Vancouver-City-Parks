@@ -71,4 +71,3 @@ We are going to use the AWS services like S3, Glue, Glue DataBrew as per our nee
 * Above image displays the resulted stored in the ‘neighbourhood’ folder using the partition key.
 ![image 014](https://github.com/user-attachments/assets/6a9bdf05-402e-4669-8db2-0582c7fb7fc9)<br>
 * Above image displays the resulted stored in the ‘with washroom’ folder using the partition key.
-* 

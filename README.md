@@ -5,11 +5,6 @@ A project which explain on the DAP design and implementation for the descriptive
 * In this we have key features like the ‘Park Name’, ‘Special Features’, ‘Facilities’, ‘Washroom’,  ‘Address’ and other details.
 * From this, the main objective the teammate has taken to do analysis is “What is the count of parks in each ‘Neighbourhood’ of Vancouver recorded with a Washroom facility?”.
 * Using this, we can further analyze the population segmentation around these areas and other details.
-* Data Questions (Metric)
-First we need to gather a few details below:
-•	Total count of parks in each neighborhood
-•	Total count of parks in each neighborhood with washroom facility
-•	Find the ration of the parks with washroom to the total count of parks in each neighbourhood respectively.
 #### Data Questions (Metric)
 First we need to gather a few details below:
 * Total count of parks in each neighborhood
